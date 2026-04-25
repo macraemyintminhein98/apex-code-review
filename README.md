@@ -1,14 +1,21 @@
-# APEX Code Review
+# Apex Code Review
 
-APEX Code Review is a GitHub Action that provides instant, AI-powered feedback on your Pull Requests. It automatically identifies common code issues, potential bugs, and security vulnerabilities, helping you maintain high code quality with minimal effort.
+**Apex Code Review** is an AI-powered tool that provides automated code reviews for your GitHub repositories. Simply provide a GitHub URL, and our system will analyze your code for style, potential bugs, complexity, and best practices, generating a concise and actionable report.
 
 ## Features
 
-- **Automated Feedback:** Get suggestions directly in your PR comments.
-- **Common Issue Detection:** Flags `console.log`, unhandled promises, and more.
-- **Security Scans:** Basic detection of common security pitfalls.
-- **Easy Integration:** Simple `action.yml` setup.
+*   **Instant Feedback**: Get quick insights into your code quality.
+*   **Actionable Reports**: Focus on common issues and quick wins.
+*   **OpenAI GPT-powered**: Leveraging advanced AI for intelligent analysis.
+*   **Easy to Use**: Just paste your GitHub URL and get started.
 
-## Getting Started
+## How it Works
 
-Coming Soon! Sign up on our landing page (`index.html`) for updates and early access.
+1.  Enter your GitHub repository URL on the web interface.
+2.  Our system fetches the code.
+3.  AI analyzes the code against best practices.
+4.  A detailed review report is generated and displayed.
+
+## Get Started
+
+Visit our landing page to generate your first code review!
